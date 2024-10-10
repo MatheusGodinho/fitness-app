@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-Designed to be a weekly meals schedule to organize a fitness lifestyle
+Designed to be a weekly meals schedule to organize a fitness lifestyle.
